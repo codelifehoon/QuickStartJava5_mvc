@@ -8,5 +8,6 @@
 <body>
     <h2>WelCome Home! ${title}</h2>
     <h2>Today : ${time} show time</h2>
+    <h2>git added</h2>
 </body>
 </html>
