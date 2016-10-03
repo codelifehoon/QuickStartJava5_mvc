@@ -23,6 +23,7 @@ public class QuickStartJava5Application {
 //        resolver.setPrefix("/WEB-INF/view/");
 //        resolver.setSuffix(".jsp");
 //        return resolver;
-//    }
+//			프로퍼티로 변경 
+//    }  
 	
 }
